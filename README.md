@@ -1,5 +1,4 @@
 # Lingosync.AI
-Lingosync give you your video script
 ```html
 <!DOCTYPE html>
 <html lang="en">
