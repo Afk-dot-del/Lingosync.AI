@@ -1,12 +1,12 @@
 # Lingosync.AI
-Lingosync give you your video script 
+Lingosync give you your video script
 ```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LingoSync AI - Global Localization Engine</title>
+    <title>LingoSync.ai - Global Localization Engine</title>
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Google Fonts -->
@@ -48,7 +48,7 @@ Lingosync give you your video script
                     </svg>
                 </div>
                 <div>
-                    <span class="font-extrabold text-xs tracking-tight text-slate-900 leading-none block">LingoSync AI</span>
+                    <span class="font-extrabold text-xs tracking-tight text-slate-900 leading-none block">LingoSync.ai</span>
                     <span class="text-[8px] font-bold text-brand-600 tracking-wider uppercase leading-none block mt-0.5">Localization Engine</span>
                 </div>
             </div>
@@ -246,7 +246,7 @@ Lingosync give you your video script
 
                 <!-- QR Code (Hidden UPI ID endpoint) -->
                 <div class="p-2.5 bg-slate-50 border border-slate-200 rounded-lg inline-block shadow-inner">
-                    <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=upi://pay?pa=mylove.you09@okaxis&pn=LingoSyncAI&am=499&cu=INR" alt="UPI QR Code" class="w-36 h-36 mx-auto rounded">
+                    <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=upi://pay?pa=mylove.you09@okaxis&pn=LingoSync.ai&am=499&cu=INR" alt="UPI QR Code" class="w-36 h-36 mx-auto rounded">
                     <span class="block text-[9px] text-slate-400 mt-1 font-mono">Secure Encrypted QR</span>
                 </div>
 
